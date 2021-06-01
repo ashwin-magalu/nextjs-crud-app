@@ -1,0 +1,27 @@
+.h1 {
+  text-align: center;
+}
+
+
+.navbar {
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #008cba;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar .create {
+  color: #fff;
+  font-size: 1.5rem;
+}
+
+.navbar .brand {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.brand:hover .create:hover {
+  color: #fff;
+}
